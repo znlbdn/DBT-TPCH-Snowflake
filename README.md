@@ -64,7 +64,7 @@ dbt init
 ```
 
 - Configure your dbt init project by filling the form that prompted
-- Named the project 'dbt_snow' and then enter
+- Named the project 'dbt_snowflake' and then enter
 - Chose Snowflake as adapter by fill 1 in the promp
 - Enter your username
 - Enter your password for username
@@ -184,3 +184,5 @@ Run the command below, to see the documentation within catalog and lineage graph
 ```
 dbt docs serve --port 8001
 ```
+
+# Thank you
